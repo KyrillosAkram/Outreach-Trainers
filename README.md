@@ -24,6 +24,6 @@ this project was for training and the task was collect all the data from the tab
 
 
 **Images of work :**
- 1. evens log ![evens log](https://raw.githubusercontent.com/KyrillosAkram/Outreach-Trainers/master/Screenshot%20from%20demo-2020-04-27_11.32.49.mkv.png)
+ 1. events log ![events log](https://raw.githubusercontent.com/KyrillosAkram/Outreach-Trainers/master/Screenshot%20from%20demo-2020-04-27_11.32.49.mkv.png)
 
  2. the excel file![the excel file](https://raw.githubusercontent.com/KyrillosAkram/Outreach-Trainers/master/Screenshot%20from%20demo-2020-04-27_11.32.49.mkv%20-%201.png)
